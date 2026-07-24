@@ -3,10 +3,10 @@
   <!-- PLACEHOLDER: Put a link to an aesthetic banner image below -->
   <img src="[PLACEHOLDER: LINK_TO_YOUR_BANNER_IMAGE_HERE]" alt="Profile Banner" width="100%" style="border-radius:10px" />
   
-  <h1>Hi there, I'm Voliathon 👋</h1>
+  <h1>Hi 👋</h1>
   
   <!-- Dynamic Typing Effect (Sped up duration & pause) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=500&color=33BBFF&center=true&vCenter=true&width=450&lines=Senior+Developer;OG+Gamer;Not+a+One-Trick+Pony;Versatile+Tech+Generalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=500&color=33BBFF&center=true&vCenter=true&width=450&lines=Senior+Developer;OG+Gamer;Versatile+Tech+Generalist" alt="Typing SVG" />
 </div>
 
 ---
