@@ -1,3 +1,6 @@
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 <!-- DYNAMIC ANIMATED HEADER -->
 <div align="center">
   <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:33BBFF,100:B947B1&height=250&section=header&text=Voliathon&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Developer%20](https://capsule-render.vercel.app/api?type=waving&color=0:33BBFF,100:B947B1&height=250&section=header&text=Voliathon&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Developer%20)|%20OG%20Gamer%20|%20Versatile%20Tech%20Generalist&descAlignY=55&descAlign=50" alt="Voliathon Header" width="100%" />
