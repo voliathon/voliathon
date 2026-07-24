@@ -3,10 +3,10 @@
   <!-- PLACEHOLDER: Put a link to an aesthetic banner image below -->
   <img src="[PLACEHOLDER: LINK_TO_YOUR_BANNER_IMAGE_HERE]" alt="Profile Banner" width="100%" style="border-radius:10px" />
   
-  <h1>Hi 👋</h1>
+  <h1>Hi there, I'm Voliathon 👋</h1>
   
   <!-- Dynamic Typing Effect (Sped up duration & pause) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=500&color=33BBFF&center=true&vCenter=true&width=450&lines=Senior+Developer;OG+Gamer;Versatile+Tech+Generalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=500&color=33BBFF&center=true&vCenter=true&width=450&lines=Senior+Developer;OG+Gamer;Not+a+One-Trick+Pony;Versatile+Tech+Generalist" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,13 +23,13 @@
 <div align="center">
 
 <!-- Row 1 -->
-[![AltanaViewer](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=voliathon&repo=AltanaViewer&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/voliathon/AltanaViewer) [![AltanaListener](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=voliathon&repo=AltanaListener&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/voliathon/AltanaListener)
+[![AltanaViewer](https://github-readme-stats.vercel.app/api/pin/?username=voliathon&repo=AltanaViewer&theme=radical&show_owner=true)](https://github.com/voliathon/AltanaViewer) [![AltanaListener](https://github-readme-stats.vercel.app/api/pin/?username=voliathon&repo=AltanaListener&theme=radical&show_owner=true)](https://github.com/voliathon/AltanaListener)
 
 <!-- Row 2 -->
-[![Dressup-Mod](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=voliathon&repo=Dressup-Mod&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/voliathon/Dressup-Mod) [![GearInfo-Mod](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=voliathon&repo=GearInfo-Mod&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/voliathon/GearInfo-Mod)
+[![Dressup-Mod](https://github-readme-stats.vercel.app/api/pin/?username=voliathon&repo=Dressup-Mod&theme=radical&show_owner=true)](https://github.com/voliathon/Dressup-Mod) [![GearInfo-Mod](https://github-readme-stats.vercel.app/api/pin/?username=voliathon&repo=GearInfo-Mod&theme=radical&show_owner=true)](https://github.com/voliathon/GearInfo-Mod)
 
 <!-- Row 3 -->
-[![SheolHelper-Mod](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=voliathon&repo=SheolHelper-Mod&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/voliathon/SheolHelper-Mod) [![SimplePull](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=voliathon&repo=SimplePull&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/voliathon/SimplePull)
+[![SheolHelper-Mod](https://github-readme-stats.vercel.app/api/pin/?username=voliathon&repo=SheolHelper-Mod&theme=radical&show_owner=true)](https://github.com/voliathon/SheolHelper-Mod) [![SimplePull](https://github-readme-stats.vercel.app/api/pin/?username=voliathon&repo=SimplePull&theme=radical&show_owner=true)](https://github.com/voliathon/SimplePull)
 
 </div>
 
