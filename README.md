@@ -17,18 +17,19 @@
 <a href="[https://github.com/voliathon/AltanaViewer](https://github.com/voliathon/AltanaViewer)">
    <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/AltanaViewer.svg" alt="AltanaViewer" />
 </a>
-<a href="[https://github.com/voliathon/AltanaListener](https://github.com/voliathon/AltanaListener)">
-   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/AltanaListener.svg" alt="AltanaListener" />
+<a href="[https://github.com/voliathon/GearInfo-Mod](https://github.com/voliathon/GearInfo-Mod)">
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/GearInfo-Mod.svg" alt="GearInfo-Mod" />
 </a>
 
 <br><br>
 
 <!-- Row 2 -->
+<a href="[https://github.com/voliathon/AltanaListener](https://github.com/voliathon/AltanaListener)">
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/AltanaListener.svg" alt="AltanaListener" />
+</a>
+
 <a href="[https://github.com/voliathon/Dressup-Mod](https://github.com/voliathon/Dressup-Mod)">
    <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/Dressup-Mod.svg" alt="Dressup-Mod" />
-</a>
-<a href="[https://github.com/voliathon/GearInfo-Mod](https://github.com/voliathon/GearInfo-Mod)">
-   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/GearInfo-Mod.svg" alt="GearInfo-Mod" />
 </a>
 
 <br><br>
