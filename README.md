@@ -53,7 +53,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,perl,lua,github&theme=dark&perline=10" alt="Core Tech Stack" />
   </a>
   
-  <br><br>
+  <br>
   
   <!-- Security & AppSec (Heavy-duty Shields) -->
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
