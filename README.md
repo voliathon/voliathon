@@ -63,7 +63,7 @@
 
 ---
 
-### 📊 Player Stats
+### 📊 Languages Used
 
 <div align="center">
   <!-- Pulling directly from your generated profile folder -->
