@@ -1,4 +1,3 @@
-![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 <!-- DYNAMIC ANIMATED HEADER -->
@@ -87,9 +86,10 @@
 ### 📊 Player Stats
 
 <div align="center">
-  <!-- Make sure to also update YOUR_VERCEL_URL here if you use github-stats-extended for standard stats too -->
-  <img src="https://[YOUR_VERCEL_URL]/api?username=voliathon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://[YOUR_VERCEL_URL]/api/top-langs/?username=voliathon&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
+  <!-- Pulling directly from your generated profile folder -->
+  <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/stats.svg" alt="GitHub Stats" width="48%" />
+  
+  <!-- NOTE: If your action also generated a top-langs.svg, you would put that link here! -->
 </div>
 
 <br>
