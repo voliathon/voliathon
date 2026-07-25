@@ -1,4 +1,3 @@
-
 <!-- GitHub Contribution Snake Animation -->
 <div align="center">
   <picture>
@@ -58,18 +57,56 @@
 ### 🛠️ `Arsenal & Tooling`
 
 <div align="center">
-  <!-- Core Languages (SkillIcons Glassmorphism) -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,perl,lua,github&theme=dark&perline=10" alt="Core Tech Stack" />
+  <!-- Core Languages (Individual Glassmorphism Icons) -->
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+    <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" />
+  </a>
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+  </a>
+  <a href="https://www.php.net/" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" />
+  </a>
+  <a href="https://www.perl.org/" title="Perl">
+    <img src="https://skillicons.dev/icons?i=perl&theme=dark" alt="Perl" />
+  </a>
+  <a href="https://www.lua.org/" title="Lua">
+    <img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua" />
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  </a>
+  
+  <br>
+
+  <!-- IDEs & AI -->
+  <a href="https://visualstudio.microsoft.com/insiders/" title="Visual Studio 2026 Insiders">
+    <img src="https://img.shields.io/badge/VS_2026_Insiders-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Insiders" />
+  </a>
+  <a href="https://gemini.google.com/" title="Google Gemini Pro">
+    <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini Pro" />
+  </a>
+  <a href="https://notepad-plus-plus.org/" title="Notepad++">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
   </a>
   
   <br>
   
-  <!-- Security & AppSec (Heavy-duty Shields) -->
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk Security" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <!-- Security & AppSec -->
+  <a href="https://owasp.org/" title="Open Worldwide Application Security Project">
+    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  </a>
+  <a href="https://snyk.io/" title="Snyk Security">
+    <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk Security" />
+  </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" title="SonarQube Code Quality">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  </a>
 </div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/top-langs.svg" alt="Top Languages" /> 
