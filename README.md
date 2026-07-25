@@ -13,7 +13,7 @@
 > location: "Bastok Mines"
 > race: "Mithra"
 > class: "Senior Developer / Multi-Hat Generalist"
-> current_status: "Compiling code and pulling NMs."
+> current_status: "Compiling code and pulling Notorius Monsters."
 ```
 
 ---
