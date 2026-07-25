@@ -30,7 +30,7 @@
    <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/GearInfo-Mod.svg" alt="GearInfo-Mod" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Row 2 -->
 <a href="https://github.com/voliathon/AltanaListener">
@@ -40,7 +40,7 @@
    <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/Dressup-Mod.svg" alt="Dressup-Mod" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Row 3 -->
 <a href="https://github.com/voliathon/SheolHelper-Mod">
