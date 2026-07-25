@@ -1,19 +1,3 @@
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
-<!-- DYNAMIC ANIMATED HEADER -->
-<div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:33BBFF,100:B947B1&height=250&section=header&text=Voliathon&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Developer%20](https://capsule-render.vercel.app/api?type=waving&color=0:33BBFF,100:B947B1&height=250&section=header&text=Voliathon&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Senior%20Developer%20)|%20OG%20Gamer%20|%20Versatile%20Tech%20Generalist&descAlignY=55&descAlign=50" alt="Voliathon Header" width="100%" />
-</div>
-
-<!-- GITHUB TROPHIES (Gamified Stats) -->
-<div align="center">
-  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">
-    <img src="[https://github-profile-trophy.vercel.app/?username=voliathon&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true](https://github-profile-trophy.vercel.app/?username=voliathon&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true)" alt="Voliathon Trophies" />
-  </a>
-</div>
-
-<br>
-
 ### 💻 `~/$ whoami`
 
 ```bash
@@ -31,30 +15,30 @@
 
 <!-- Row 1 -->
 <a href="[https://github.com/voliathon/AltanaViewer](https://github.com/voliathon/AltanaViewer)">
-  <img src="https://[YOUR_VERCEL_URL]/api/pin/?username=voliathon&repo=AltanaViewer&theme=tokyonight&show_owner=true&border_radius=10" alt="AltanaViewer" />
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/AltanaViewer.svg" alt="AltanaViewer" />
 </a>
 <a href="[https://github.com/voliathon/AltanaListener](https://github.com/voliathon/AltanaListener)">
-  <img src="https://[YOUR_VERCEL_URL]/api/pin/?username=voliathon&repo=AltanaListener&theme=tokyonight&show_owner=true&border_radius=10" alt="AltanaListener" />
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/AltanaListener.svg" alt="AltanaListener" />
 </a>
 
 <br><br>
 
 <!-- Row 2 -->
 <a href="[https://github.com/voliathon/Dressup-Mod](https://github.com/voliathon/Dressup-Mod)">
-  <img src="https://[YOUR_VERCEL_URL]/api/pin/?username=voliathon&repo=Dressup-Mod&theme=tokyonight&show_owner=true&border_radius=10" alt="Dressup-Mod" />
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/Dressup-Mod.svg" alt="Dressup-Mod" />
 </a>
 <a href="[https://github.com/voliathon/GearInfo-Mod](https://github.com/voliathon/GearInfo-Mod)">
-  <img src="https://[YOUR_VERCEL_URL]/api/pin/?username=voliathon&repo=GearInfo-Mod&theme=tokyonight&show_owner=true&border_radius=10" alt="GearInfo-Mod" />
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/GearInfo-Mod.svg" alt="GearInfo-Mod" />
 </a>
 
 <br><br>
 
 <!-- Row 3 -->
 <a href="[https://github.com/voliathon/SheolHelper-Mod](https://github.com/voliathon/SheolHelper-Mod)">
-  <img src="https://[YOUR_VERCEL_URL]/api/pin/?username=voliathon&repo=SheolHelper-Mod&theme=tokyonight&show_owner=true&border_radius=10" alt="SheolHelper-Mod" />
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/SheolHelper-Mod.svg" alt="SheolHelper-Mod" />
 </a>
 <a href="[https://github.com/voliathon/SimplePull](https://github.com/voliathon/SimplePull)">
-  <img src="https://[YOUR_VERCEL_URL]/api/pin/?username=voliathon&repo=SimplePull&theme=tokyonight&show_owner=true&border_radius=10" alt="SimplePull" />
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/SimplePull.svg" alt="SimplePull" />
 </a>
 
 </div>
@@ -87,7 +71,8 @@
 
 <div align="center">
   <!-- Pulling directly from your generated profile folder -->
-  <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/top-langs.svg" alt="Top Languages" width="38%" /> 
+  <!--<img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/stats.svg" alt="GitHub Stats" width="48%" /> -->
   
   <!-- NOTE: If your action also generated a top-langs.svg, you would put that link here! -->
 </div>
@@ -96,10 +81,10 @@
 
 <!-- OPTIONAL: GitHub Contribution Snake Animation -->
 <!-- Note: This requires setting up the Platane/snk GitHub Action to generate the SVG -->
-<div align="center">
+<!--<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake-dark.svg)">
     <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg)">
     <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg)" width="100%">
   </picture>
-</div>
+</div> -->
