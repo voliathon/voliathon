@@ -1,3 +1,13 @@
+
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
 ### 💻 `~/$ whoami`
 
 ```bash
@@ -9,7 +19,7 @@
 
 ---
 
-### ✨ Featured Projects
+### ✨ `Featured Projects`
 
 <div align="center">
 
@@ -45,7 +55,7 @@
 
 ---
 
-### 🛠️ Arsenal & Tooling
+### 🛠️ `Arsenal & Tooling`
 
 <div align="center">
   <!-- Core Languages (SkillIcons Glassmorphism) -->
@@ -61,23 +71,6 @@
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
 </div>
 
----
-
-### 📊 Languages Used
-
 <div align="center">
-  <!-- Pulling directly from your generated profile folder -->
-  <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/top-langs.svg" alt="Top Languages" width="38%" /> 
-  <!--<img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/stats.svg" alt="GitHub Stats" width="48%" /> -->
-</div>
-
-<br>
-
-<!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/voliathon/voliathon/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/top-langs.svg" alt="Top Languages" /> 
 </div>
