@@ -7,15 +7,21 @@
   </picture>
 </div>
 
-### 💻 `~/$ whoami`
+### 💻 `~/$ whoami / philosophy`
 
 ```bash
 > location: "Bastok Mines"
 > race: "Mithra"
 > class: "Senior Developer / Multi-Hat Generalist"
-> current_status: "Compiling code and pulling Notorius Monsters."
+> current_status: "Compiling code and pulling Notorious Monsters."
 ```
-
+```yaml
+Workflow:
+  Primary Driver: Human Architect
+  Acceleration: LLM / AI Tooling
+  Validation: Manual Profiling, Static Analysis, Stress Testing
+  Philosophy: "Architected, reviewed, and stress-tested by humans."
+ ``` 
 ---
 
 ### ✨ `Featured Projects`
@@ -79,7 +85,7 @@
   <a href="https://github.com/" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
   </a>
-  
+
   <br>
 
   <!-- IDEs & AI -->
@@ -106,7 +112,6 @@
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
   </a>
 </div>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/top-langs.svg" alt="Top Languages" /> 
