@@ -33,22 +33,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Pinned Repo: AltanaViewer
-      - name: Generate AltanaViewer pin
+      # 3. Pinned Repo: FFXI-Modernization-Guide
+      - name: Generate FFXI-Modernization-Guide pin
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=AltanaViewer&theme=tokyonight&show_owner=true&border_radius=10
-          path: profile/AltanaViewer.svg
+          options: username=${{ github.repository_owner }}&repo=FFXI-Modernization-Guide&theme=tokyonight&show_owner=true&border_radius=10
+          path: profile/FFXI-Modernization-Guide.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4. Pinned Repo: AltanaListener
-      - name: Generate AltanaListener pin
+      # 4. Pinned Repo: VanaCore
+      - name: Generate VanaCore pin
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=AltanaListener&theme=tokyonight&show_owner=true&border_radius=10
-          path: profile/AltanaListener.svg
+          options: username=${{ github.repository_owner }}&repo=VanaCore&theme=tokyonight&show_owner=true&border_radius=10
+          path: profile/VanaCore.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 5. Pinned Repo: Dressup-Mod
