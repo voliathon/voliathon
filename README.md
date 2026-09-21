@@ -29,8 +29,8 @@ Workflow:
 <div align="center">
 
 <!-- Row 1 -->
-<a href="https://github.com/voliathon/AltanaViewer">
-   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/AltanaViewer.svg" alt="AltanaViewer" />
+<a href="https://github.com/voliathon/FFXI-Modernization-Guide ">
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/FFXI-Modernization-Guide.svg" alt="FFXI-Modernization-Guide " />
 </a>
 <a href="https://github.com/voliathon/GearInfo-Mod">
    <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/GearInfo-Mod.svg" alt="GearInfo-Mod" />
@@ -39,8 +39,8 @@ Workflow:
 <br>
 
 <!-- Row 2 -->
-<a href="https://github.com/voliathon/AltanaListener">
-   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/AltanaListener.svg" alt="AltanaListener" />
+<a href="https://github.com/voliathon/VanaCore">
+   <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/VanaCore.svg" alt="VanaCore " />
 </a>
 <a href="https://github.com/voliathon/Dressup-Mod">
    <img src="https://raw.githubusercontent.com/voliathon/voliathon/main/profile/Dressup-Mod.svg" alt="Dressup-Mod" />
